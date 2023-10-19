@@ -1,2 +1,2 @@
 export const API_HOST =
-  process.env.REACT_APP_API_HOST || "http://127.0.0.1:8000";
+  process.env.REACT_APP_API_HOST || "https://wediet-c4846e26a407.herokuapp.com";
